@@ -1,4 +1,3 @@
-
 $(".burgers").each(function() {
     const theta = Math.floor(61 * Math.random()) - 30;
 
